@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate Ethical Hacker from Pakistan</h3>
 # 💫 About Me:
-🔭 I’m currently working on Metaverse<br><br>🌱 I’m currently learning Python advance<br><br>👯 I’m looking to collaborate on Web 3.0<br><br>📝 I regularly write articles on www.facebook.com/ritikperwani<br><br>💬 Ask me about python automation<br><br>📫 How to reach me ritikk173@gmail.com
+🔭 I’m currently working on Meteververse<br><br>🌱 I’m currently learning Python advance<br><br>👯 I’m looking to collaborate on Web 3.0<br><br>📝 I regularly write articles on www.facebook.com/ritikperwani<br><br>💬 Ask me about python automation<br><br>📫 How to reach me ritikk173@gmail.com
 
 
 ## 🌐 Socials:
@@ -20,11 +20,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=itsrituu&icon=4&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsrituu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/its_rituu)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsrituu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/its_rituu) 
