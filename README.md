@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate Ethical Hacker from Pakistan</h3>
  💫 About Me:
-🔭 I’m currently working on Artifical intelegance<br><br>🌱 I’m currently learning Python advance<br><br>👯 I’m looking to collaborate on Web 3.0<br><br>📝 I regularly write articles on www.facebook.com/ritikperwani<br><br>💬 Ask me about python automation<br><br>📫 How to reach me ritikk173@gmail.com
+🔭 I’m currently working on Artifical intelligence<br><br>🌱 I’m currently learning Python advance<br><br>👯 I’m looking to collaborate on Web 3.0<br><br>📝 I regularly write articles on www.facebook.com/ritikperwani<br><br>💬 Ask me about python automation<br><br>📫 How to reach me ritikk173@gmail.com
 
 
 ## 🌐 Socials:
